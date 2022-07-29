@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
     // Site URL for when it goes live
-    siteUrl: `https://elastic-meninsky-aa7c74.netlify.app/`,
+    siteUrl: `https://debfolio.live/`,
     // Your Name
     name: 'Soumyajit Deb',
     // Main Site Title
-    title: `Ryan Fitzgerald | Software Engineer`,
+    title: `Soumyajit Deb | Software Engineer`,
     // Description that goes under your name in main bio
     description: `Welcome to my little corner in the web!`,
     // Optional: Twitter account handle
